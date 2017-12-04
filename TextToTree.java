@@ -11,7 +11,7 @@ public class TextToTree {
 		BinaryTree textTree = new BinaryTree();
 		
         // The name of the file to open.
-        String fileName = "./binary-tree-text-parser-master/temp.txt";
+        String fileName = "./string-binary-tree-master/46-8.txt";
 
         // This will reference one line at a time
         String line = null;
